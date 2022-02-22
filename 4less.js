@@ -34,3 +34,4 @@ console.log (typeof Boolean(b));
 let c = true;
 console.log (typeof String(c));
 
+console.log (typeof (true).toString());
