@@ -12,6 +12,7 @@ for (let i=0; i < 3; i++ ) {
 
 //2
 
+let day = 0
 let startDate = new Date(2000, 0, day)
 let finishDate = new Date()
 let count = 0
@@ -26,7 +27,7 @@ while(startDate < finishDate){
 
 console.log(count)
 
-//3
+// //3
 
 let number = 15
 let a = number
